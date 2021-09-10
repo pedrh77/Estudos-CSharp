@@ -1,0 +1,16 @@
+C:\Users\Pedro\source\repos\Estudos_CSharp\bin\Debug\net5.0\Estudos_CSharp.exe
+C:\Users\Pedro\source\repos\Estudos_CSharp\bin\Debug\net5.0\Estudos_CSharp.deps.json
+C:\Users\Pedro\source\repos\Estudos_CSharp\bin\Debug\net5.0\Estudos_CSharp.runtimeconfig.json
+C:\Users\Pedro\source\repos\Estudos_CSharp\bin\Debug\net5.0\Estudos_CSharp.runtimeconfig.dev.json
+C:\Users\Pedro\source\repos\Estudos_CSharp\bin\Debug\net5.0\Estudos_CSharp.dll
+C:\Users\Pedro\source\repos\Estudos_CSharp\bin\Debug\net5.0\ref\Estudos_CSharp.dll
+C:\Users\Pedro\source\repos\Estudos_CSharp\bin\Debug\net5.0\Estudos_CSharp.pdb
+C:\Users\Pedro\source\repos\Estudos_CSharp\obj\Debug\net5.0\Estudos_CSharp.csproj.AssemblyReference.cache
+C:\Users\Pedro\source\repos\Estudos_CSharp\obj\Debug\net5.0\Estudos_CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\source\repos\Estudos_CSharp\obj\Debug\net5.0\Estudos_CSharp.AssemblyInfoInputs.cache
+C:\Users\Pedro\source\repos\Estudos_CSharp\obj\Debug\net5.0\Estudos_CSharp.AssemblyInfo.cs
+C:\Users\Pedro\source\repos\Estudos_CSharp\obj\Debug\net5.0\Estudos_CSharp.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\source\repos\Estudos_CSharp\obj\Debug\net5.0\Estudos_CSharp.dll
+C:\Users\Pedro\source\repos\Estudos_CSharp\obj\Debug\net5.0\ref\Estudos_CSharp.dll
+C:\Users\Pedro\source\repos\Estudos_CSharp\obj\Debug\net5.0\Estudos_CSharp.pdb
+C:\Users\Pedro\source\repos\Estudos_CSharp\obj\Debug\net5.0\Estudos_CSharp.genruntimeconfig.cache
