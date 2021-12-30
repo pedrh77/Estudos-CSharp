@@ -6,3 +6,10 @@
 * Calculadora
 * Tabuada
 * IMC
+
+
+---
+# Feito Por Pedro Santos
+ <a href="https://github.com/pedrh77">
+    <img width="60px" src="https://avatars.githubusercontent.com/u/66256107?v=4">
+  </a>
